@@ -17,11 +17,11 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Midea Group",
+      "position": "Algorithm Engineer",
       "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "2025-05",
+      "endDate": "2025-08",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity", "Description 2."]
     },
@@ -76,24 +76,24 @@
   "education": [
     {
       "institution": "University of Pennsylvania",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
+      "location": "Philadelphia, Pennsylvania, US",
+      "url": "https://www.upenn.edu/",
+      "area": "Data Science",
+      "studyType": "Master's degree",
       "startDate": "2024-08",
       "endDate": "2026-06",
-      "score": "",
+      "score": "4.0",
       "courses": ["Theory of Relativity"],
       "highlights": ["Description 1.", "Description 2."]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
+      "institution": "University of Nottingham",
+      "location": "Nottingham, England, US",
+      "area": "Mathematics with Applied Mathematics",
+      "studyType": "Bachelor's degree",
+      "startDate": "2020-09",
+      "endDate": "2024-07",
+      "score": "3.9",
       "courses": [],
       "highlights": ["Description 1.", "Description 2."]
     }
