@@ -19,27 +19,27 @@
     {
       "name": "Midea Group",
       "position": "Algorithm Engineer",
-      "location": "Princeton University, NJ",
+      "location": "Foshan, Guangdong, China",
       "startDate": "2025-05",
       "endDate": "2025-08",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "summary": "placeholder",
       "highlights": ["Relativity", "Description 2."]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
+      "name": "Wharton AI & Analytics Initiative",
+      "position": "Data Scientist Intern",
+      "location": "Philadelphia, Pennsylvania, US",
+      "startDate": "2025-01",
+      "endDate": "2025-05",
       "summary": "",
       "highlights": ["Description 1.", "Description 2."]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
+      "name": "Novo Nordisk (China) Pharmaceuticals Co., Ltd.",
+      "position": "Data Analyst Intern",
+      "location": "Beijing, China",
+      "startDate": "2023-06",
+      "endDate": "2023-09",
       "summary": "",
       "highlights": []
     },
@@ -53,11 +53,11 @@
       "highlights": []
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
+      "name": "Central Institute of Mental Health",
+      "position": "Data Analyst Intern",
+      "location": "Mannheim, Germany",
+      "startDate": "2023-01",
+      "endDate": "2023-05",
       "summary": "",
       "highlights": []
     }
