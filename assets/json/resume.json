@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Yulun Wu",
-    "label": "Scientist",
+    "label": "Data Scientist",
     "image": "",
     "email": "yulunwu02@163.com",
     "phone": "(267) 800-3686",
@@ -75,13 +75,13 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich",
+      "institution": "University of Pennsylvania",
       "location": "Zurich, Switzerland",
       "url": "https://www.uzh.ch/",
       "area": "Physics",
       "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2024-08",
+      "endDate": "2026-06",
       "score": "",
       "courses": ["Theory of Relativity"],
       "highlights": ["Description 1.", "Description 2."]
