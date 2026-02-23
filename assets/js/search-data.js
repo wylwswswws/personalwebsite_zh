@@ -44,15 +44,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-数据分析思维之业务指标体系",
         
-          title: "a post with plotly.js",
+          title: "数据分析思维之业务指标体系",
         
-        description: "this is what included plotly.js code could look like",
+        description: "总结自《数据分析思维：分析方法和业务知识》，深入解析人货场数据三要素及核心业务指标体系搭建方法论。",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2026/sjfxsw1/";
           
         },
       },{id: "post-a-post-with-image-galleries",
